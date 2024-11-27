@@ -1,0 +1,13 @@
+[
+ {
+ "run": "11111111-1",
+ "nombre": "Gonzalo",
+ "apellido": "Flores",
+ "direccion": "Viñadelmar",
+ "fono": 14141414,
+ "correo":"gonza@correo.cl",
+ "montoCredito": 505050,
+ "deuda":606060,
+ "tipo": 3
+ }
+]
