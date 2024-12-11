@@ -1,12 +1,12 @@
 [
  {
  "id": 1,
- "run": "11111111-1",
+ "run": "21450250-k",
  "nombre": "Gonzalo",
  "apellido": "Flores",
  "direccion": "Viñadelmar",
- "fono": 14141414,
- "correo":"gonza@correo.cl",
+ "fono": 972954897,
+ "correo":"gonzalo.flores20@inacapmail.cl",
  "montoCredito": 505050,
  "deuda":606060,
  "tipo": 3
